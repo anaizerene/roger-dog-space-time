@@ -29,7 +29,7 @@ complexity can hinder productivity and overall succes of your project. Keeping t
 > *Azure App Service* is a straightforward option to deploy web applications and APIs. This is helpful if your model needs to be a part of a web-based application. </br>
 
 ### Cost Efficiency </br>
-when deploying models at a scale, it is important to take cost into consideration. Budget constraints can cause implications, so it is important to work within certain pricing tiers and limits. </br?
+when deploying models at a scale, it is important to take cost into consideration. Budget constraints can cause implications, so it is important to work within certain pricing tiers and limits. </br>
 > Azure Functions can be used for infrequent or lightweight deployments as a serverless computing option, only paying-as-you-go (execution time of your function). </br>
 > for small-scale, or temp deployments; Azure Container Instances *ACI* is a lower-cost option for deploying containerized models without the need for orchestration. 
 > for long-term deployments; Reserved instances can be used with discounted pay-as-you-go pricing models. </br>
@@ -40,4 +40,6 @@ Mantaining and updating your deployed model includes pushing software updates, m
 > Azure monitoring tools provide a variety of tools like Azure Monitor, Log Analytics and Application Insights, which help you track model performance, detect anomalies and troubleshoot issues in **real time.** </br>
 
 ### Security and compliance </br>
-When dealing with sensitive user data, it is important to comply with 
+When dealing with sensitive user data, it is important to comply with ethical AI practices, like avoiding algorithmic bias, data poisoning and more.
+> Azure Security Center is a service that provides a unified security management system and threat protection across the Azure environment. By identifying vulnerabilities early on, you can ensure that your deployment is industry standard-compliant.
+> International and industry-specific compliance certifs (GDPR - social media, online retail, digital banking, cloud computing, IT; HIPAA - heatlhcare; ISO/IEC - manufacturing, heathcare, finance and information technology) are all met by Azure.
