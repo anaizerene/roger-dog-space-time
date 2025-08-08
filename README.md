@@ -35,7 +35,7 @@ when deploying models at a scale, it is important to take cost into consideratio
 > for long-term deployments; Reserved instances can be used with discounted pay-as-you-go pricing models. </br>
 
 ### Updates and Maintenance </br>
-Mantaining and updating your deployed model includes pushing software updates, monitoring performance and troubleshooting issues. </br>
+Maintaining and updating your deployed model includes pushing software updates, monitoring performance and troubleshooting issues. </br>
 > Azure DevOps allows for continious integration and allows you to push updates, roll back changes and automate testing.
 > Azure monitoring tools provide a variety of tools like Azure Monitor, Log Analytics and Application Insights, which help you track model performance, detect anomalies and troubleshoot issues in **real time.** </br>
 
